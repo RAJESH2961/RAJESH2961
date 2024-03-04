@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rajesh Gangadharam</h1>
+<h1 align="center">Hi There 👋, I'm Rajesh Gangadharam</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
 
 - 📫 How to reach me **grajesh2906@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
