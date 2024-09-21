@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Rajesh Gangadharam</h1>
-<h3 align="center">A passionate Computer Science Student</h3>
+<h3 align="center">A passionate Computer Science Student pursuing B.Tech At The Apollo University</h3>
 
 - 📫 How to reach me **grajesh2906@gmail.com**
 
