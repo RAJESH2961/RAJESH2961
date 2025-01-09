@@ -55,7 +55,7 @@
 
 <h3 align="center">✨ Let's Connect:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajesh-gangadharam/">
+  <a href="https://www.linkedin.com/in/rajesh2906/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/RAJESH2961">
