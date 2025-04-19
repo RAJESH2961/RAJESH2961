@@ -21,27 +21,42 @@
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RAJESH2961&label=Profile+Views&color=brightgreen" alt="Profile Views" />
+</p>
+
+---
+
+<h3 align="center">🛠️ Languages and Tools:</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,django,flask,mysql,java,git,github,bootstrap" alt="Skills" />
+</p>
+
+<h3 align="center">🧰 Tech Stack</h3>
+<p align="center">
+  <a><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
+  <a><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
 </p>
 
 ---
 
 <h3 align="left">🌟 Projects:</h3>
 <ul>
-    <li><strong>Multidisease Prediction System</strong> - Built a machine learning model integrated with a web application to predict the likelihood of multiple diseases based on user inputs. Technologies used: Python, Flask, and ML algorithms like Logistic Regression and Random Forest.</li>
-  <li><strong>Diploma Calculator</strong> - A web tool designed to help diploma students calculate their percentage and grade based on subject marks. Developed with HTML, CSS, JavaScript, and Django.</li>
-  <li><strong>E-Commerce Website</strong> - Developed a fully functional e-commerce platform using Django, with integrated user accounts, product listings, and shopping carts.</li>
-  <li><strong>Assignment Front Page Generator</strong> - A web app that automatically generates a well-structured assignment front page, with fields for customization.</li>
-  <li><strong>BMI Calculator</strong> - A simple web app to calculate Body Mass Index, built with HTML, CSS, and JavaScript.</li>
-  <li><strong>Random Quote Generator</strong> - Generates random inspirational quotes, built with JavaScript and APIs.</li>
-
+  <li><strong>Multidisease Prediction System</strong> - ML web app to predict diseases using Flask, Python, and scikit-learn.</li>
+  <li><strong>Diploma Calculator</strong> - Tool to calculate diploma grades using Django and JavaScript.</li>
+  <li><strong>E-Commerce Website</strong> - Full-stack shopping site with Django, user accounts, and carts.</li>
+  <li><strong>Assignment Front Page Generator</strong> - Dynamic front page builder for assignments.</li>
+  <li><strong>BMI Calculator</strong> - Lightweight BMI tool made with HTML/CSS/JS.</li>
+  <li><strong>Random Quote Generator</strong> - Inspirational quote generator using JS + APIs.</li>
 </ul>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RAJESH2961&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
@@ -50,6 +65,20 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJESH2961&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RAJESH2961&theme=radical&column=7" alt="Trophies" />
+</p>
+
+---
+
+<h3 align="center">📈 GitHub Activity Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAJESH2961&theme=radical" alt="Activity Graph" />
 </p>
 
 ---
