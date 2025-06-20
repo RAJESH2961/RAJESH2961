@@ -41,9 +41,9 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🧠 [**Multi-Disease Prediction**](https://github.com/RAJESH2961/Multi-Disease-Prediction) | Flask ML app for quick health diagnostics | Python, ML, Flask |
-| 🛒 [**E-Commerce Web App**](https://github.com/RAJESH2961/E-commerce-webapp) | Django + MySQL full-stack shopping site | Django, MySQL, Bootstrap |
-| 🎓 [**Diploma Calculator**](https://github.com/RAJESH2961/Diploma-Calculator) | Automates CGPA/SGPA calculations for students | Python, Tkinter |
-| 📈 [**Stock Prediction Website**](https://github.com/RAJESH2961/Stock-Prediction-Website) | Predict future stock prices using LSTM | Python, Streamlit, Keras |
+| 🛒 [**E-Commerce Web App**](https://github.com/RAJESH2961/E-commerce) | Django + MySQL full-stack shopping site | Django, MySQL, Bootstrap |
+| 🎓 [**Diploma Calculator**](https://github.com/RAJESH2961/Diploma_Percentage_calculator) | Automates CGPA/SGPA calculations for students | Python, Tkinter |
+| 📈 [**Stock Prediction Website**](https://github.com/RAJESH2961/stock-prediction-portal) | Predict future stock prices using LSTM | Python, Streamlit, Keras |
 | ⚙️ [**Utilities**](https://github.com/RAJESH2961?tab=repositories) | QR Generator, BMI Calculator & more | HTML, JS, Python |
 
 ---
