@@ -44,7 +44,7 @@
 | 🛒 [**E-Commerce Web App**](https://github.com/RAJESH2961/E-commerce-webapp) | Django + MySQL full-stack shopping site | Django, MySQL, Bootstrap |
 | 🎓 [**Diploma Calculator**](https://github.com/RAJESH2961/Diploma-Calculator) | Automates CGPA/SGPA calculations for students | Python, Tkinter |
 | 📈 [**Stock Prediction Website**](https://github.com/RAJESH2961/Stock-Prediction-Website) | Predict future stock prices using LSTM | Python, Streamlit, Keras |
-| ⚙️ [**Utilities**](https://github.com/RAJESH2961?tab=repositories&q=calculator&type=&language=&sort=) | QR Generator, BMI Calculator & more | HTML, JS, Python |
+| ⚙️ [**Utilities**](https://github.com/RAJESH2961?tab=repositories) | QR Generator, BMI Calculator & more | HTML, JS, Python |
 
 ---
 
