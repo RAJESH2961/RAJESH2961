@@ -27,7 +27,6 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently working on: **Machine Learning & Full Stack Projects**
-- 🌱 Exploring: `LLMs`, `Cloud`, `System Design`, `Vector Databases`
 - 💼 Open to: **Backend / ML / Full Stack Internships**
 - 📫 Reach me: **grajesh2906@gmail.com**
 - 🌐 Portfolio: [rajesh2906.netlify.app](https://rajesh2906.netlify.app/)
