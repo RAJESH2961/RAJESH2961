@@ -53,15 +53,23 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAJESH2961&show_icons=true&theme=tokyonight&rank_icon=github" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAJESH2961&theme=tokyonight" height="200"/>
+  <!-- Core GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RAJESH2961&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAJESH2961&theme=tokyonight" height="200"/>
 </p>
 
+### 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJESH2961&layout=compact&theme=tokyonight" height="200"/>
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://github-readme-streak-stats-eight.vercel.app?user=RAJESH2961&theme=tokyonight-duo&hide_border=false&border_radius=10&mode=daily&date_format=j%20M%5B,%20Y%5D"
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
 
 ---
