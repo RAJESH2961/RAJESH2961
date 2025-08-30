@@ -27,47 +27,6 @@
 </p>
 </details>
 
----
-
-## 🚀 Featured Projects  
-
-<p align="center">
-  <a href="https://github.com/RAJESH2961/stock-prediction-portal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJESH2961&repo=stock-prediction-portal&theme=tokyonight&border_radius=10" />
-  </a>
-  <a href="https://github.com/RAJESH2961/Multi-Disease-Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJESH2961&repo=Multi-Disease-Prediction&theme=tokyonight&border_radius=10" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/RAJESH2961/E-commerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJESH2961&repo=E-commerce&theme=tokyonight&border_radius=10" />
-  </a>
-  <a href="https://github.com/RAJESH2961/Movie-Recommendation-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJESH2961&repo=Movie-Recommendation-System&theme=tokyonight&border_radius=10" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/RAJESH2961/Credit-Card-Fraud-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJESH2961&repo=Credit-Card-Fraud-Detection&theme=tokyonight&border_radius=10" />
-  </a>
-  <a href="https://github.com/RAJESH2961/Student-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJESH2961&repo=Student-Management-System&theme=tokyonight&border_radius=10" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/RAJESH2961/IPL-Data-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJESH2961&repo=IPL-Data-Analysis&theme=tokyonight&border_radius=10" />
-  </a>
-  <a href="https://github.com/RAJESH2961/Diploma_Percentage_calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJESH2961&repo=Diploma_Percentage_calculator&theme=tokyonight&border_radius=10" />
-  </a>
-</p>
-
-
 ## 📊 GitHub Analytics  
 
 <p align="center">
