@@ -1,32 +1,62 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Rajesh+Gangadharam;Full+Stack+Developer;Aspiring+ML+Engineer;Passionate+Problem+Solver" />
-</h1>
+<p align="center">
+  <!-- Extruded 3D text header -->
+  <svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" preserveAspectRatio="xMidYMid meet">
+    <defs>
+      <linearGradient id="g1" x1="0" x2="1">
+        <stop offset="0" stop-color="#00f5ff"/>
+        <stop offset="1" stop-color="#7a00ff"/>
+      </linearGradient>
+      <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+        <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000" flood-opacity="0.45"/>
+      </filter>
+    </defs>
+
+    <!-- extrude layers -->
+    <g fill="none" font-family="Fira Code, Menlo, monospace" font-weight="700" font-size="40" text-anchor="middle" transform="translate(450,80)">
+      <!-- multiple offset layers to create depth -->
+      <g fill="#07060a">
+        <text transform="translate(12,12)">I'm Rajesh Gangadharam</text>
+        <text transform="translate(10,10)">I'm Rajesh Gangadharam</text>
+        <text transform="translate(8,8)">I'm Rajesh Gangadharam</text>
+        <text transform="translate(6,6)">I'm Rajesh Gangadharam</text>
+        <text transform="translate(4,4)">I'm Rajesh Gangadharam</text>
+      </g>
+
+      <!-- top glossy text -->
+      <g filter="url(#shadow)">
+        <text fill="url(#g1)">I'm Rajesh Gangadharam</text>
+      </g>
+    </g>
+  </svg>
+</p>
 
 ---
 
 ## 👨‍💻 About Me  
 
-- 🔭 Currently working on: **Machine Learning & Full Stack Projects**  
-- 💼 Open to: **Backend / ML / Full Stack Internships**  
+- 🎓 I’m **Rajesh**, currently a **3rd-year B.Tech CSE student**  
+- 📜 Completed **Diploma in Computer Science**  
+- 💻 Passionate about **Full Stack Development & Machine Learning**  
+- 🔭 Currently exploring: **Advanced Backend Systems & ML Projects**  
+- 🌱 Always learning: **Cloud, Docker, and Kubernetes**  
 - 📫 Reach me at: **grajesh2906@gmail.com**  
 - 🌐 Portfolio: [rajesh2906.netlify.app](https://rajesh2906.netlify.app/)  
 
+---
+
+## ⚡ Developer Vibes  
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RAJESH2961&label=Profile%20Views&color=1E90FF&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/RAJESH2961?label=Followers&style=social" />
-  <img src="https://img.shields.io/badge/Portfolio-rajesh2906.netlify.app-00CED1?style=flat-square&logo=netlify&logoColor=white" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAJESH2961&theme=react-dark&hide_border=true" width="100%"/>
 </p>
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Arsenal  
 
-<details>
-<summary>Click to Expand 🛠️</summary>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,js,react,tailwind,html,css,bootstrap,java,mysql,postgres,sqlite,aws,vercel,postman,figma,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,go,django,flask,fastapi,react,tailwind,mysql,postgres,redis,mongodb,aws,docker,kubernetes,linux,git,github,vscode" />
 </p>
-</details>
 
 ---
 
@@ -61,26 +91,46 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&section=header&text=Keep+Building+%7C+Keep+Learning+%7C+Keep+Growing&fontSize=18&fontAlignY=35&animation=blink"/>
+</p>
+
+---
+
+## 🌀 3D Contribution Graph  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RAJESH2961/RAJESH2961/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+</p>
+
 ---
 
 ## 📌 Quick Access  
 
 <p align="center">
   <a href="https://github.com/RAJESH2961?tab=repositories">
-    <img src="https://img.shields.io/badge/My_Repositories-Click_to_View-blueviolet?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/My_Repositories-Click_to_View-orange?style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/RAJESH2961/stock-prediction-portal">
-    <img src="https://img.shields.io/badge/Stock_Prediction_App-View_Project-00CED1?style=for-the-badge&logo=react" />
+    <img src="https://img.shields.io/badge/Stock_Prediction_App-View_Project-blue?style=for-the-badge&logo=react" />
   </a>
   <a href="https://github.com/RAJESH2961/E-commerce">
-    <img src="https://img.shields.io/badge/E--Commerce_App-View_Project-yellowgreen?style=for-the-badge&logo=django" />
+    <img src="https://img.shields.io/badge/E--Commerce_App-View_Project-green?style=for-the-badge&logo=django" />
   </a>
 </p>
 
 ---
 
+## 💡 Random Dev Quote  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
 <h3 align="center">
-  ✨ Thanks for visiting my profile ✨  
+  🖤 Code. Debug. Optimize. Repeat. 🖤  
   <br/>
-  <img src="https://raw.githubusercontent.com/RAJESH2961/RAJESH2961/main/assets/wave.svg" width="100%" height="120" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </h3>
