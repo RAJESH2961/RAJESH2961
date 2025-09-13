@@ -1,10 +1,10 @@
 ## 👨‍💻 About Me  
 
-- 🎓 I’m **Rajesh**, currently a **3rd-year B.Tech CSE student**.  
-- 📜 Completed **Diploma in Computer Science**.  
-- 💻 Passionate about **Full Stack Development & Machine Learning**.  
-- 🔭 Currently exploring: **Advanced Backend Systems & ML Projects**.  
-- 🌱 Always learning: **Cloud, Docker, and Kubernetes**.  
+- 🎓 I’m **Rajesh Gangadharam**, currently pursuing a **B.Tech in Computer Science (3rd Year)**.  
+- 📜 Completed a **Diploma in Computer Science**, building a strong foundation in software engineering.  
+- 💻 Passionate about **Full Stack Development** and **Machine Learning**, with a focus on scalable and maintainable systems.  
+- 🔭 Currently exploring **Backend Architecture**, **Cloud Technologies**, and **AI/ML projects**.  
+- 🌱 Continuously learning and upgrading skills in **Docker, Kubernetes, AWS**, and **modern web frameworks**.  
 - 📫 Reach me at: **grajesh2906@gmail.com**  
 - 🌐 Portfolio: [rajesh2906.netlify.app](https://rajesh2906.netlify.app/)  
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Tech Arsenal  
+## 🛠️ Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,go,django,flask,fastapi,react,tailwind,mysql,postgres,redis,mongodb,aws,docker,kubernetes,linux,git,github,vscode" />
@@ -87,10 +87,9 @@
 
 ---
 
-## 💡 Random Dev Quote  
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteColor=F8F8F2&authorColor=50FA7B&category=development" />
 </p>
 
 ---
