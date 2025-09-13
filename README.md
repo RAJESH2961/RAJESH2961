@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rajesh Gangadharam</h1>
-<h3 align="center">Full Stack Developer | Aspiring ML Engineer | Passionate Problem Solver</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Rajesh+Gangadharam;Full+Stack+Developer;Aspiring+ML+Engineer;Passionate+Problem+Solver" />
+</h1>
 
 ---
 
@@ -27,6 +28,8 @@
 </p>
 </details>
 
+---
+
 ## 📊 GitHub Analytics  
 
 <p align="center">
@@ -52,6 +55,14 @@
 
 ---
 
+## 🎶 Fun Animations  
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ## 📌 Quick Access  
 
 <p align="center">
@@ -68,4 +79,8 @@
 
 ---
 
-<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
+<h3 align="center">
+  ✨ Thanks for visiting my profile ✨  
+  <br/>
+  <img src="https://raw.githubusercontent.com/RAJESH2961/RAJESH2961/main/assets/wave.svg" width="100%" height="120" />
+</h3>
