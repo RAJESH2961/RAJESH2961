@@ -1,44 +1,10 @@
-<p align="center">
-  <!-- Extruded 3D text header -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" preserveAspectRatio="xMidYMid meet">
-    <defs>
-      <linearGradient id="g1" x1="0" x2="1">
-        <stop offset="0" stop-color="#00f5ff"/>
-        <stop offset="1" stop-color="#7a00ff"/>
-      </linearGradient>
-      <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
-        <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000" flood-opacity="0.45"/>
-      </filter>
-    </defs>
-
-    <!-- extrude layers -->
-    <g fill="none" font-family="Fira Code, Menlo, monospace" font-weight="700" font-size="40" text-anchor="middle" transform="translate(450,80)">
-      <!-- multiple offset layers to create depth -->
-      <g fill="#07060a">
-        <text transform="translate(12,12)">I'm Rajesh Gangadharam</text>
-        <text transform="translate(10,10)">I'm Rajesh Gangadharam</text>
-        <text transform="translate(8,8)">I'm Rajesh Gangadharam</text>
-        <text transform="translate(6,6)">I'm Rajesh Gangadharam</text>
-        <text transform="translate(4,4)">I'm Rajesh Gangadharam</text>
-      </g>
-
-      <!-- top glossy text -->
-      <g filter="url(#shadow)">
-        <text fill="url(#g1)">I'm Rajesh Gangadharam</text>
-      </g>
-    </g>
-  </svg>
-</p>
-
----
-
 ## 👨‍💻 About Me  
 
-- 🎓 I’m **Rajesh**, currently a **3rd-year B.Tech CSE student**  
-- 📜 Completed **Diploma in Computer Science**  
-- 💻 Passionate about **Full Stack Development & Machine Learning**  
-- 🔭 Currently exploring: **Advanced Backend Systems & ML Projects**  
-- 🌱 Always learning: **Cloud, Docker, and Kubernetes**  
+- 🎓 I’m **Rajesh**, currently a **3rd-year B.Tech CSE student**.  
+- 📜 Completed **Diploma in Computer Science**.  
+- 💻 Passionate about **Full Stack Development & Machine Learning**.  
+- 🔭 Currently exploring: **Advanced Backend Systems & ML Projects**.  
+- 🌱 Always learning: **Cloud, Docker, and Kubernetes**.  
 - 📫 Reach me at: **grajesh2906@gmail.com**  
 - 🌐 Portfolio: [rajesh2906.netlify.app](https://rajesh2906.netlify.app/)  
 
