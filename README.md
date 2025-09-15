@@ -4,7 +4,7 @@
 - 📜 Completed a **Diploma in Computer Science**, building a strong foundation in software engineering.  
 - 💻 Passionate about **Full Stack Development** and **Machine Learning**, with a focus on scalable and maintainable systems.  
 - 🔭 Currently exploring **Backend Architecture**, **Cloud Technologies**, and **AI/ML projects**.  
-- 🌱 Continuously learning and upgrading skills in **Docker, Kubernetes, AWS**, and **modern web frameworks**.  
+- 🌱 Continuously learning and upgrading skills in **Full Stack, LLD&HLD, AWS**, and **modern web frameworks**.  
 - 📫 Reach me at: **grajesh2906@gmail.com**  
 - 🌐 Portfolio: [rajesh2906.netlify.app](https://rajesh2906.netlify.app/)  
 
