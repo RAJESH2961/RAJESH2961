@@ -1,13 +1,23 @@
-## 👨‍💻 About Me  
+👨‍💻 About Me
 
-- 🎓 I’m **Rajesh Gangadharam**, currently pursuing a **B.Tech in Computer Science (3rd Year)**.  
-- 📜 Completed a **Diploma in Computer Science**, building a strong foundation in software engineering.  
-- 💻 Passionate about **Full Stack Development** and **Machine Learning**, with a focus on scalable and maintainable systems.  
-- 🔭 Currently exploring **Backend Architecture**, **Cloud Technologies**, and **AI/ML projects**.  
-- 🌱 Continuously learning and upgrading skills in **Full Stack, LLD&HLD, AWS**, and **modern web frameworks**.  
-- 📫 Reach me at: **grajesh2906@gmail.com**  
-- 🌐 Portfolio: [rajesh2906.netlify.app](https://rajesh2906.netlify.app/)  
+🎓 I’m Rajesh Gangadharam, currently pursuing a B.Tech in Computer Science (3rd Year).
 
+📜 Completed a Diploma in Computer Science, building a strong foundation in software engineering principles.
+
+💻 Passionate about Full Stack Development and Machine Learning, with a focus on building scalable, maintainable, and high-performance systems.
+
+🔭 Currently exploring Backend Architecture, AI/ML projects, and cloud-native applications.
+
+🌱 Continuously learning and upgrading skills in Full Stack Development, Low-Level Design (LLD), High-Level Design (HLD), AWS, and modern web frameworks like React, Node.js, and Django.
+
+🛠 Skilled in Python, JavaScript, SQL, and various ML/AI libraries such as  PyTorch, and scikit-learn.
+
+🌍 Interested in designing intuitive user experiences, building robust APIs, and optimizing system performance.
+
+
+📫 Reach me at: grajesh2906@gmail.com
+
+🌐 Portfolio: rajesh2906.netlify.app
 ---
 
 ## ⚡ Developer Vibes  
