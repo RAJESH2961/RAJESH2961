@@ -34,6 +34,11 @@
   <img src="https://skillicons.dev/icons?i=python,java,bootstrap,postman,django,flask,fastapi,react,tailwind,mysql,postgres,redis,mongodb,linux,git,github,vscode" />
 </p>
 
+### 👨‍💻 I Code In
+
+<img height="50" src="https://img.icons8.com/color/48/000000/python.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/flutter.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+
+
 ---
 
 ## 📊 GitHub Analytics  
@@ -73,12 +78,9 @@
 
 ---
 
-## 🌀 3D Contribution Graph  
+### 🧠 LeetCode Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RAJESH2961/RAJESH2961/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-</p>
-
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Rajesh?theme=dark&ext=contest)](https://leetcode.com/RAJESH2961)
 ---
 
 ## 📌 Quick Access  
