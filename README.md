@@ -78,10 +78,7 @@
 
 ---
 
-### 🧠 LeetCode Stats
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Rajesh?theme=dark&ext=contest)](https://leetcode.com/RAJESH2961)
----
 
 ## 📌 Quick Access  
 
