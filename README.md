@@ -20,7 +20,7 @@
 🌐 Portfolio: rajesh2906.netlify.app
 ---
 
-## ⚡ Developer Vibes  
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAJESH2961&theme=react-dark&hide_border=true" width="100%"/>
@@ -31,7 +31,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,go,django,flask,fastapi,react,tailwind,mysql,postgres,redis,mongodb,aws,docker,kubernetes,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,bootstrap,postman,django,flask,fastapi,react,tailwind,mysql,postgres,redis,mongodb,linux,git,github,vscode" />
 </p>
 
 ---
