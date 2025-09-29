@@ -1,6 +1,6 @@
 👨‍💻 About Me
 
-🎓 I’m Rajesh Gangadharam, currently pursuing a B.Tech in Computer Science (3rd Year).
+🎓 I’m Rajesh Gangadharam, currently pursuing a B.Tech in Computer Science and Engineering (3rd Year).
 
 📜 Completed a Diploma in Computer Science, building a strong foundation in software engineering principles.
 
@@ -8,7 +8,7 @@
 
 🔭 Currently exploring Backend Architecture, AI/ML projects, and cloud-native applications.
 
-🌱 Continuously learning and upgrading skills in Full Stack Development, Low-Level Design (LLD), High-Level Design (HLD), AWS, and modern web frameworks like React, Node.js, and Django.
+🌱 Continuously learning and upgrading skills in Full Stack Development, Low-Level Design (LLD), High-Level Design (HLD), AWS, and modern web frameworks like React, and Django.
 
 🛠 Skilled in Python, JavaScript, SQL, and various ML/AI libraries such as  PyTorch, and scikit-learn.
 
