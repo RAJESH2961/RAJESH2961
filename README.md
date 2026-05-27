@@ -1,43 +1,44 @@
-👨‍💻 About Me
-
-🎓 I’m Rajesh Gangadharam, currently pursuing a B.Tech in Computer Science and Engineering (3rd Year).
-
-📜 Completed a Diploma in Computer Science, building a strong foundation in software engineering principles.
-
-💻 Passionate about Full Stack Development and Machine Learning, with a focus on building scalable, maintainable, and high-performance systems.
-
-🔭 Currently exploring Backend Architecture, AI/ML projects, and cloud-native applications.
-
-🌱 Continuously learning and upgrading skills in Full Stack Development, Low-Level Design (LLD), High-Level Design (HLD), AWS, and modern web frameworks like React, and Django.
-
-🛠 Skilled in Python, JavaScript, SQL, and various ML/AI libraries such as  PyTorch, and scikit-learn.
-
-🌍 Interested in designing intuitive user experiences, building robust APIs, and optimizing system performance.
-
-
-📫 Reach me at: grajesh2906@gmail.com
-
-🌐 Portfolio: rajesh2906.netlify.app
----
-
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAJESH2961&theme=react-dark&hide_border=true" width="100%"/>
-</p>
+# GenAI Full Stack Engineer | FastAPI · React · LangChain | Building AI-powered web apps | Open to SDE / GenAI roles
 
 ---
 
-## 🛠️ Tech Stack  
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,bootstrap,postman,django,flask,fastapi,react,tailwind,mysql,postgres,redis,mongodb,linux,git,github,vscode" />
-</p>
+Full Stack Engineer with 16+ months of real-world internship experience building production-grade web applications and AI-powered tools.
 
-### 👨‍💻 I Code In
+Currently at **Webvoid Technologies**, where I architect RESTful APIs with FastAPI and SQLAlchemy, build React + TypeScript SPAs, implement JWT-based RBAC security, and ship features end-to-end with Docker and CI/CD pipelines.
 
-<img height="50" src="https://img.icons8.com/color/48/000000/python.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/flutter.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+Previously at **Digital Hercules Innovations**, I integrated the Amazon Ads API and built Django REST Framework backends for ad data pipelines, handling real-time data normalization and storage at scale.
 
+I'm currently expanding into **GenAI application development** — building LLM-powered features using LangChain, OpenAI API, and vector databases (Chroma / Pinecone).
+
+### 🛠️ Stack I work with:
+- **Backend:** FastAPI · Django · PostgreSQL · SQLAlchemy · JWT · REST APIs
+- **Frontend:** React.js · TypeScript · TailwindCSS · Axios
+- **GenAI:** LangChain · OpenAI API · RAG · Vector DBs
+- **DevOps:** Docker · Git · CI/CD · Postman · Swagger
+
+Outside work, I've solved 250+ problems on LeetCode and built the **Alumni Connect Portal** — a full-stack university networking platform with role-based access, email confirmation workflows, and event management.
+
+**B.Tech CSE @ The Apollo University | CGPA: 9.20/10**  
+**Diploma CSE @ SVCET | 90 percentile**
+
+**Open to Full Stack SDE, GenAI Developer, and Backend Engineer roles.**
+
+---
+
+## 💼 Experience
+
+### Webvoid Technologies — Full Stack Engineer Intern
+- Architected RESTful APIs using FastAPI and SQLAlchemy ORM, reducing average query response time by ~40% through normalized schema design and query optimization — serving 3+ client-facing applications in production.
+- Built React + TypeScript SPAs with JWT-based RBAC authentication, implementing role-specific dashboards and async data streaming for real-time UI updates.
+- Containerized the full application stack with Docker and implemented CI/CD pipelines, reducing deployment time from manual multi-step to a single automated build.
+- Designed PostgreSQL schemas with proper indexing and foreign key constraints, supporting complex multi-table joins for reporting and analytics features.
+
+### Digital Hercules Innovations — Backend Engineer Intern
+- Integrated Amazon Advertising API to fetch, normalize, and store ad performance data using Django models and PostgreSQL — enabling real-time campaign tracking across 10+ ad accounts.
+- Built Django REST Framework backends with djoser for authentication, delivering RESTful endpoints consumed by a React frontend.
+- Automated data ingestion pipelines that pulled ad metrics on a scheduled basis, reducing manual reporting effort by eliminating daily data exports.
 
 ---
 
@@ -73,12 +74,10 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&section=header&text=Keep+Building+%7C+Keep+Learning+%7C+Keep+Growing&fontSize=18&fontAlignY=35&animation=blink"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&section=header&text=Keep+Building+%7C+Keep+Learning+%7C+Keep+Growing&fontSize=18&fontAlignY=35&animation=blink" alt="Motivational banner"/>
 </p>
 
 ---
-
-
 
 ## 📌 Quick Access  
 
@@ -95,7 +94,6 @@
 </p>
 
 ---
-
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteColor=F8F8F2&authorColor=50FA7B&category=development" />
